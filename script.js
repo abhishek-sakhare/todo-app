@@ -43,6 +43,11 @@ form.addEventListener("submit", function(e) {
 });
 
 
+menu.addEventListener("click", function() {
+
+
+})
+
 // addEventListener("keypress", function(e) {
 //     if (e.key === " ") {
 //         alert("space is pressed");

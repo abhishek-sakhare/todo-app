@@ -25,10 +25,13 @@ body {
     position: absolute;
     left: 1rem;
 }
-.menu {
+/* .menu {
     color: #000;
     position: absolute;
     right: 1rem;
+} */
+.menu:hover {
+    cursor: pointer;
 }
 .section2 {
     height: 10rem;
